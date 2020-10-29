@@ -3,6 +3,8 @@
 **Thursday, October 29, 2020**
 **11:00 AM - 2:30 PM PDT**
 
+**Note:** Copies of presentations will be uploaded soon.
+
 The SDSC Expanse system (https://expanse.sdsc.edu), goes into full production on November 1, 2020 and replaces Comet, which will be retired on March 31, 2021. 
 
 The transition should be straightforward for most users, however, there are some important differences in both the hardware and software between these two systems. The _Comet to Expanse transition Tutorial_ is designed to explain to users the differences in both the hardware and software between these two systems and to provide some examples. 
