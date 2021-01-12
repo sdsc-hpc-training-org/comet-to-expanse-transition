@@ -33,11 +33,11 @@ The transition should be straightforward for most users, however, there are some
 | _Running Jobs_	 |  | |
 | 11:30 AM - 12:15 PM| 	[Slurm differences, Running Jobs](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/MTatineni_Expanse_Running_Jobs.pdf)	| Mahidhar Tatineni, Director of User Services| 
 | 12:15 PM - 12:25 PM| 	10-minute break	| | 
-| 12:25 PM - 12:55 PM| 	[Modules, compiling and basic optimizaton - CPU]()	| Marty Kandes, Computational and Data Science Research Specialist| 
-| 12:55 PM - 1:25 PM	| [Modules, compiling and basic optimizaton - GPU]()	| Marty Kandes, Computational and Data Science Research Specialist| 
+| 12:25 PM - 12:55 PM| 	[Modules, compiling and basic optimizaton - CPU](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/)	| Marty Kandes, Computational and Data Science Research Specialist| 
+| 12:55 PM - 1:25 PM	| [Modules, compiling and basic optimizaton - GPU](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/)	| Marty Kandes, Computational and Data Science Research Specialist| 
 | 1:25 PM - 1:35 PM	| 10-minute break	| | 
-| 1:35 PM - 1:45 PM	| [Job Charging, TRES	]()| Nicole Wolter, Computational and Data Science Research Specialist| 
-| 1:45 PM - 2:00 PM	| [Using the Expanse portal ]()	| Subhashini Sivagnanam, Senior Computational and Data Science Specialist| 
-| 2:00 PM - 2:15 PM	| [Interactive computing and running Jupyter Notebooks]()	| Mary Thomas, Computational Data Scientist| 
+| 1:35 PM - 1:45 PM	| [Job Charging, TRES	](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/NWolter_Expanse101_mng_allocations.pdf)| Nicole Wolter, Computational and Data Science Research Specialist| 
+| 1:45 PM - 2:00 PM	| Using the Expanse portal 	| Subhashini Sivagnanam, Senior Computational and Data Science Specialist| 
+| 2:00 PM - 2:15 PM	| [Interactive computing and running Jupyter Notebooks](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/MThomas_Expanse-Interactive-Computing.pdf)	| Mary Thomas, Computational Data Scientist| 
 | _Data Management_	| | | 	
-| 2:15 PM - 2:30 PM	| [Data transfer mechanisms	]()|Nicole Wolter, Computational and Data Science Research Specialist| 
+| 2:15 PM - 2:30 PM	| [Data transfer mechanisms	](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/NWolter_Expanse101_data_xfer.pdf)|Nicole Wolter, Computational and Data Science Research Specialist| 
