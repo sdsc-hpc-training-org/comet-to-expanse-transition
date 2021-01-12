@@ -39,4 +39,4 @@ The transition should be straightforward for most users, however, there are some
 | 1:45 PM - 2:00 PM	| Using the Expanse portal 	| Subhashini Sivagnanam, Senior Computational and Data Science Specialist| 
 | 2:00 PM - 2:15 PM	| Interactive computing and running Jupyter Notebooks	| Mary Thomas, Computational Data Scientist| 
 | _Data Management_	| | | 	
-| 2:15 PM - 2:30 PM	| Data transfer mechanisms	Nicole Wolter, Computational and Data Science Research Specialist| 
+| 2:15 PM - 2:30 PM	| Data transfer mechanisms	|Nicole Wolter, Computational and Data Science Research Specialist| 
