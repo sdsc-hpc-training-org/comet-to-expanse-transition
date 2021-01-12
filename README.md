@@ -24,13 +24,14 @@ The transition should be straightforward for most users, however, there are some
 * How to move data from Comet to Expanse.
 
 ## Agenda:
+* Note: all presentations can be found in the presentations folder: [https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/tree/main/presentations](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/tree/main/presentations)
 
 | **SCHEDULE**	| **TITLE**	| **PRESENTOR** | 
 | :----------- | :----------- | :----------- | 
 |_Overview/User Environment_  |
-| 11:00 - 11:30 AM	| Overview of System and Allocations	| Mahidhar Tatineni, Director of User Services| 
+| 11:00 - 11:30 AM	| [Overview of System and Allocations](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/MTatineni_Expanse_Overview.pdf)	| Mahidhar Tatineni, Director of User Services| 
 | _Running Jobs_	 |  | |
-| 11:30 AM - 12:15 PM| 	Slurm differences, Running Jobs	| Mahidhar Tatineni, Director of User Services| 
+| 11:30 AM - 12:15 PM| 	[Slurm differences, Running Jobs]()	| Mahidhar Tatineni, Director of User Services| 
 | 12:15 PM - 12:25 PM| 	10-minute break	| | 
 | 12:25 PM - 12:55 PM| 	Modules, compiling and basic optimizaton - CPU	| Marty Kandes, Computational and Data Science Research Specialist| 
 | 12:55 PM - 1:25 PM	| Modules, compiling and basic optimizaton - GPU	| Marty Kandes, Computational and Data Science Research Specialist| 
