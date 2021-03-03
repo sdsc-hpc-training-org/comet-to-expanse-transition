@@ -1,4 +1,4 @@
-# Comet to Expanse Transition Tutorial (2021)
+## 2021 Comet to Expanse Transition Tutorial
 
 **Thursday, March 4, 2021**
 **9:00 AM - 1:00 PM PST**
@@ -6,7 +6,7 @@ This event will be held remotely.
 
 ### Interactive videos:
 
-*[Comet to Expanse Transition Tutorial (2021)](https://education.sdsc.edu/training/interactive/202010_comet_to_expanse/index.html)
+* [Comet to Expanse Transition Tutorial (2021)](https://education.sdsc.edu/training/interactive/202010_comet_to_expanse/index.html)
 
 
 **Note:** Copies of presentations will be uploaded soon after the event has ended.
