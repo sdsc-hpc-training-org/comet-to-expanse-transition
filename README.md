@@ -1,43 +1,14 @@
-# Comet to Expanse Transition Tutorial
+# Comet to Expanse Transition Tutorial (2021)
+(repeat event from 2020)
 
-**Thursday, October 29, 2020**
-**11:00 AM - 2:30 PM PDT**
+**Thursday, March 4, 2021**
+**9:00 AM - 1:00 PM PST**
+This event will be held remotely.
 
-**Note:** Copies of presentations will be uploaded soon.
+**Note:** Copies of presentations will be uploaded soon after the event has ended.
 
-The SDSC Expanse system (https://expanse.sdsc.edu), goes into full production on November 1, 2020 and replaces Comet, which will be retired on March 31, 2021. 
+## Description:
+SDSC’s new supercomputer, Expanse, went into full production on December 7, 2020 as a follow-on to Comet. Although the transition should be straightforward for most users, there are some important differences in both the hardware and software between these two systems. We will start with an overview of the Expanse architecture, which is based on AMD’s 64-core EPYC Rome processor and NVIDIA’s V100 GPU device. Moving from Intel to AMD processors introduces a new set of compilers, math libraries and tools. We’ll explain how to use the AMD software stack to build and run applications for optimal performance. GPU applications will port easily to Expanse and the upgrade from Comet’s P100s to the newer V100s generally results in significantly reduced run times. With regards to job submission, we continue to use the Slurm workload manager. Partition names are left unchanged, but job scripts will have to be updated to reflect the larger core counts and, for highly scalable applications, maximum job size. We also introduce a new charging model that fairly takes into account the usage of all resources (memory, CPU, GPU). The tutorial concludes with a discussion of interactive computing using the Expanse Portal and efficiently moving data from Comet to Expanse.
 
-The transition should be straightforward for most users, however, there are some important differences in both the hardware and software between these two systems. The _Comet to Expanse transition Tutorial_ is designed to explain to users the differences in both the hardware and software between these two systems and to provide some examples. 
-
-## Goals:
-* Explain Expanse architecture 
-* AMD’s 64-core EPYC Rome processor and NVIDIA’s V100 GPU. 
-* Introduces new set of compilers, math libraries and tools. 
-* Explain how to use the AMD software stack to build and run applications for optimal performance. 
-* Show how to port GPU applications to Expanse
-* upgrade from Comet’s P100s to the newer V100s
-* Explain the new module environment
-* Demonstrate job submission changes; using Slurm resource manager. 
-* Partition names unchanged, need to define larger core counts, and maximum job size. 
-* Introduce a new charging model; takes into account the usage of all resources (memory, CPU, GPU). 
-* Overview of interactive computing and the Expanse Portal 
-* How to move data from Comet to Expanse.
-
-## Agenda:
-* Note: all presentations can be found in the presentations folder: [https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/tree/main/presentations](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/tree/main/presentations)
-
-| **SCHEDULE**	| **TITLE**	| **PRESENTOR** | 
-| :----------- | :----------- | :----------- | 
-|_Overview/User Environment_  |
-| 11:00 - 11:30 AM	| [Overview of System and Allocations](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/MTatineni_Expanse_Overview.pdf)	| Mahidhar Tatineni, Director of User Services| 
-| _Running Jobs_	 |  | |
-| 11:30 AM - 12:15 PM| 	[Slurm differences, Running Jobs](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/MTatineni_Expanse_Running_Jobs.pdf)	| Mahidhar Tatineni, Director of User Services| 
-| 12:15 PM - 12:25 PM| 	10-minute break	| | 
-| 12:25 PM - 12:55 PM| 	[Modules, compiling and basic optimizaton - CPU](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/)	| Marty Kandes, Computational and Data Science Research Specialist| 
-| 12:55 PM - 1:25 PM	| [Modules, compiling and basic optimizaton - GPU](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/)	| Marty Kandes, Computational and Data Science Research Specialist| 
-| 1:25 PM - 1:35 PM	| 10-minute break	| | 
-| 1:35 PM - 1:45 PM	| [Job Charging, TRES	](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/NWolter_Expanse101_mng_allocations.pdf)| Nicole Wolter, Computational and Data Science Research Specialist| 
-| 1:45 PM - 2:00 PM	| [Using the Expanse portal](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/SSivagnanam_Expanse_Portal.pdf) 	| Subhashini Sivagnanam, Senior Computational and Data Science Specialist| 
-| 2:00 PM - 2:15 PM	| [Interactive computing and running Jupyter Notebooks](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/MThomas_Expanse-Interactive-Computing.pdf)	| Mary Thomas, Computational Data Scientist| 
-| _Data Management_	| | | 	
-| 2:15 PM - 2:30 PM	| [Data transfer mechanisms	](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/presentations/NWolter_Expanse101_data_xfer.pdf)|Nicole Wolter, Computational and Data Science Research Specialist| 
+## More details and the agenda can be found here:
+[Comet to Expanse Transition Tutorial 2021](https://www.sdsc.edu/event_items/202103_Comet_to_Expanse_TransitionTutorial.html)
