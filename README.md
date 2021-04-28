@@ -21,7 +21,7 @@ SDSC’s new supercomputer, Expanse, went into full production on December 7, 20
 | 9:00 AM – 9:05 AM | Welcome & Introduction | [Mary Thomas](#thomas) |
 | 9:05 AM - 9:30 AM | Overview of System and Allocations | [Bob Sinkovits](#sinkovits)
 | *Section: |Running Jobs *| | 
-| 9:30 AM - 10:15 AM  | Slurm differences, Running Jobs| [Mahidhar Tatineni](tatineni)|
+| 9:30 AM - 10:15 AM  | [Slurm differences, Running Jobs](https://docs.google.com/viewer?url=https%3A%2F%2Fgithub.com%2Fsdsc-hpc-training-org%2Fcomet-to-expanse-transition%2Fblob%2Fmain%2F2021-Comet-to-Expanse-Transition-Tutorial%2FMTatineni_Expanse_Running_Jobs-03-04-2021.pdf)| [Mahidhar Tatineni](tatineni)|
 | 10:15 AM - 10:25 AM |  10-minute break| | 
 | 10:25 AM – 11:25 AM |  Software module environment, basic compilation and optimization | [Marty Kandes](#kandes)  |
 | 11:25 AM - 11:35 AM |  10-minute break| |
