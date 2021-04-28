@@ -39,6 +39,6 @@ SDSC’s new supercomputer, Expanse, went into full production on December 7, 20
 | Mark Klonower<a name="klonower"></a>  | Field Application Engineer [(bio)](https://www.linkedin.com/in/mark-klonower-0b5a51/)  |AMD| 
 | Bob Sinkovits<a name="sinkovits"></a>  | Director for Scientific Computing Applications [(bio)](https://www.sdsc.edu/research/researcher_spotlight/sinkovits_robert.html) | SDSC|
 | Subhashini Sivagnanam | Senior Computational and Data Science Specialist [(bio)](http://users.sdsc.edu/~sivagnan/) | SDSC |
-| Mahidhar Tatineni<a name="tatineni"></a> [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)  | Director of User Services | SDSC |  |
-| Mary Thomas<a name="thomas"></a> [(bio)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html) | Computational Data Scientist | SDSC |
+| Mahidhar Tatineni<a name="tatineni"></a> | Director of User Services [(bio)](https://www.sdsc.edu/research/researcher_spotlight/tatineni_mahidhar.html)   | SDSC |  |
+| Mary Thomas<a name="thomas"></a>  | Computational Data Scientist, HPC Training Lead [(bio)]( https://www.sdsc.edu/research/researcher_spotlight/thomas_mary.html)| SDSC |
 | Nicole Wolter | Computational and Data Science Research Specialist [(bio)](https://www.linkedin.com/in/nicole-wolter-bbb94a3/)| SDSC |
