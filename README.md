@@ -19,17 +19,17 @@ SDSC’s new supercomputer, Expanse, went into full production on December 7, 20
 | --- | ----------- | ----------- |
 | *Section: | Overview/User Environment*| |
 | 9:00 AM – 9:05 AM | Welcome & Introduction | [Mary Thomas](#thomas) |
-| 9:05 AM - 9:30 AM | Overview of System and Allocations [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/2021-Comet-to-Expanse-Transition-Tutorial/Sinkovits_Expanse_Overview-03-04-2021.pdf) | [Bob Sinkovits](#sinkovits)
+| 9:05 AM - 9:30 AM | Overview of System and Allocations [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/raw/main/2021-Comet-to-Expanse-Transition-Tutorial/Sinkovits_Expanse_Overview-03-04-2021.pdf) | [Bob Sinkovits](#sinkovits)
 | *Section: |Running Jobs *| | 
-| 9:30 AM - 10:15 AM  | Slurm differences, Running Jobs [[download]](https://docs.google.com/viewer?url=https%3A%2F%2Fgithub.com%2Fsdsc-hpc-training-org%2Fcomet-to-expanse-transition%2Fblob%2Fmain%2F2021-Comet-to-Expanse-Transition-Tutorial%2FMTatineni_Expanse_Running_Jobs-03-04-2021.pdf)| [Mahidhar Tatineni](tatineni)|
+| 9:30 AM - 10:15 AM  | Slurm differences, Running Jobs [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/raw/main/2021-Comet-to-Expanse-Transition-Tutorial/Tatineni_Expanse_Running_Jobs-03-04-2021.pdf)| [Mahidhar Tatineni](tatineni)|
 | 10:15 AM - 10:25 AM |  10-minute break| | 
-| 10:25 AM – 11:25 AM |  Software module environment, basic compilation and optimization [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/2021-Comet-to-Expanse-Transition-Tutorial/managing-your-hpc-software-environment.pdf) | [Marty Kandes](#kandes)  |
+| 10:25 AM – 11:25 AM |  Software module environment, basic compilation and optimization [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/raw/main/2021-Comet-to-Expanse-Transition-Tutorial/managing-your-hpc-software-environment.pdf) | [Marty Kandes](#kandes)  |
 | 11:25 AM - 11:35 AM |  10-minute break| |
-| 11:35 AM - 11:45 AM |  Job Charging, TRES [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/2021-Comet-to-Expanse-Transition-Tutorial/NWolter_Expanse101_mng_allocations.pdf) | [Nicole Wolter](#wolter) |
-| 11:45 AM - 12:00 PM |  Using the Expanse portal [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/2021-Comet-to-Expanse-Transition-Tutorial/SSivagnanam_Expanse_Portal-03-04-2021.pdf) | [Subhashini Sivagnanam](#sivagnanam) |
-| 12:00 PM - 12:15 PM |  Interactive computing and running Jupyter Notebooks [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/2021-Comet-to-Expanse-Transition-Tutorial/MThomas-Expanse-Interactive-Computing-03-04-2021.pdf) | [Mary Thomas](#thomas) |
+| 11:35 AM - 11:45 AM |  Job Charging, TRES [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/raw/main/2021-Comet-to-Expanse-Transition-Tutorial/NWolter_Expanse101_mng_allocations.pdf) | [Nicole Wolter](#wolter) |
+| 11:45 AM - 12:00 PM |  Using the Expanse portal [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/raw/main/2021-Comet-to-Expanse-Transition-Tutorial/SSivagnanam_Expanse_Portal-03-04-2021.pdf) | [Subhashini Sivagnanam](#sivagnanam) |
+| 12:00 PM - 12:15 PM |  Interactive computing and running Jupyter Notebooks [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/raw/main/2021-Comet-to-Expanse-Transition-Tutorial/MThomas-Expanse-Interactive-Computing-03-04-2021.pdf) | [Mary Thomas](#thomas) |
 | *Section: | Data Management* |  | 
-| 12:15 PM - 12:30 PM  |  Data Transfer Mechanisms [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/blob/main/2021-Comet-to-Expanse-Transition-Tutorial/NWolter_Expanse101_data_xfer.pdf) | [Nicole Wolter](#wolter) |
+| 12:15 PM - 12:30 PM  |  Data Transfer Mechanisms [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/raw/main/2021-Comet-to-Expanse-Transition-Tutorial/NWolter_Expanse101_data_xfer.pdf) | [Nicole Wolter](#wolter) |
 | 12:30 PM – 1:00 PM  |  Q&A |  |
 
 ## Instructors<a name="instructors"></a>
