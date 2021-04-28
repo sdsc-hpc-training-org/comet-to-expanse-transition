@@ -27,7 +27,7 @@ SDSC’s new supercomputer, Expanse, went into full production on December 7, 20
 | 11:25 AM - 11:35 AM |  10-minute break| |
 | 11:35 AM - 11:45 AM |  Job Charging, TRES [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/raw/main/2021-Comet-to-Expanse-Transition-Tutorial/NWolter_Expanse101_mng_allocations.pdf) | [Nicole Wolter](#wolter) |
 | 11:45 AM - 12:00 PM |  Using the Expanse portal [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/raw/main/2021-Comet-to-Expanse-Transition-Tutorial/SSivagnanam_Expanse_Portal-03-04-2021.pdf) | [Subhashini Sivagnanam](#sivagnanam) |
-| 12:00 PM - 12:15 PM |  Interactive computing and running Jupyter Notebooks [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/raw/main/2021-Comet-to-Expanse-Transition-Tutorial/MThomas-Expanse-Interactive-Computing-03-04-2021.pdf) | [Mary Thomas](#thomas) |
+| 12:00 PM - 12:15 PM |  Interactive computing and running Jupyter Notebooks [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/raw/main/2021-Comet-to-Expanse-Transition-Tutorial//MThomas-Expanse-Interactive-Computing-03-04-2021.pdf) | [Mary Thomas](#thomas) |
 | *Section: | Data Management* |  | 
 | 12:15 PM - 12:30 PM  |  Data Transfer Mechanisms [[download]](https://github.com/sdsc-hpc-training-org/comet-to-expanse-transition/raw/main/2021-Comet-to-Expanse-Transition-Tutorial/NWolter_Expanse101_data_xfer.pdf) | [Nicole Wolter](#wolter) |
 | 12:30 PM – 1:00 PM  |  Q&A |  |
