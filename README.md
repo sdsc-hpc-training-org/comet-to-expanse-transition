@@ -16,10 +16,10 @@ SDSC’s new supercomputer, Expanse, went into full production on December 7, 20
 ## Agenda<a name="agenda"></a>
 | **TIME (PST)** | **TOPIC** | **PRESENTER** |
 | --- | ----------- | ----------- |
-|Section: | Overview/User Environment| |
+| *Section: | Overview/User Environment*| |
 | 9:00 AM – 9:05 AM | Welcome & Introduction | [Mary Thomas](#thomas) |
 | 9:05 AM - 9:30 AM | Overview of System and Allocations | [Bob Sinkovits](#sinkovits)
-| Section: |Running Jobs | | 
+| *Section: |Running Jobs *| | 
 | 9:30 AM - 10:15 AM  | Slurm differences, Running Jobs| [Mahidhar Tatineni](tatineni)|
 | 10:15 AM - 10:25 AM |  10-minute break| | 
 | 10:25 AM – 11:25 AM |  Software module environment, basic compilation and optimization | [Marty Kandes](#kandes)  |
@@ -27,7 +27,7 @@ SDSC’s new supercomputer, Expanse, went into full production on December 7, 20
 | 11:35 AM - 11:45 AM |  Job Charging, TRES | [Nicole Wolter](#wolter) |
 | 11:45 AM - 12:00 PM |  Using the Expanse portal | [Subhashini Sivagnanam](#sivagnanam) |
 | 12:00 PM - 12:15 PM |  Interactive computing and running Jupyter Notebooks | [Mary Thomas](#thomas) |
-| Section: | Data Management |  | 
+| *Section: | Data Management* |  | 
 | 12:15 PM - 12:30 PM  |  Data Transfer Mechanisms | [Nicole Wolter](#wolter) |
 | 12:30 PM – 1:00 PM  |  Q&A |  |
 
